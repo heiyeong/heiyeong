@@ -4,7 +4,9 @@
 ## Education
 - 제주대학교 컴퓨터공학과
 
-<img src="https://render.git-animals.com/sig/heiyeong.svg" width="400" alt="Git Animals" />
+<a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/heiyeong" width="1000" height="200" alt="Git Animals" />
+</a>
 
 <!--
 **heiyeong/heiyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

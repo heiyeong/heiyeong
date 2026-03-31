@@ -1,4 +1,9 @@
 ## Activities
+- 멋쟁이 사자처럼 JNU 14기ㅣ아기사자ㅣ기획/디자인
+
+## Education
+- 제주대학교 컴퓨터공학과
+
 [![Git Animals](https://render.git-animals.com/sig/heiyeong)](https://github.com/heiyeong/heiyeong)
 
 <!--

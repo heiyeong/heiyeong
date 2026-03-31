@@ -1,4 +1,5 @@
-## 컴퓨터공학과 👋
+## Activities
+[![Git Animals](https://render.git-animals.com/sig/heiyeong)](https://github.com/heiyeong/heiyeong)
 
 <!--
 **heiyeong/heiyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

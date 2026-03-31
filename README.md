@@ -4,6 +4,7 @@
 ## Education
 - 제주대학교 컴퓨터공학과
 
+## Pet
 <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/heiyeong" width="1000" height="200" alt="Git Animals" />
 </a>
